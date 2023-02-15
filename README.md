@@ -1,1 +1,1 @@
-# 20_JavaScript_Projects
+# JavaScript_Projects
