@@ -1,0 +1,66 @@
+body{
+    font-family: cambria;
+    background-color: black;
+    color: deeppink;
+}
+
+.ligne{
+    width: 90%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.col1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    float: left;
+    width: 30%;
+}
+
+.nomJeu{
+    background: white;
+    padding: 1%;
+    border-radius: 20px;
+    border: 3px solid deeppink;
+}
+
+.col2{
+     width: 20%;
+     margin-left: 80%;
+}
+
+#rejouer{
+    font-size: 20px;
+    padding: 5%;
+    text-transform: uppercase;
+    background-color: mediumpurple;
+    font-weight: bold;
+    color: deeppink;
+    border-radius: 20px;
+    visibility: hidden;
+}
+
+#rejouer:hover{
+    cursor: pointer;
+}
+
+
+#jeu {
+    width:  90%;
+    margin-left: 10%;
+}
+
+.carte {
+    width:  10%;
+    border: 5px solid white;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: hotpink;
+    display: inline-block;
+}
+
+
+
+
+
